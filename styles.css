@@ -61,22 +61,22 @@ p{
 
 label.firstColor {
   margin-left: 500px;
-  background-image: url("Images/color1.jpg");
+  background-image: url("images/color1.jpg");
 }
 label.color2 {
-  background-image: url("Images/color2.jpg");
+  background-image: url("images/color2.jpg");
 }
 label.color3 {
-  background-image: url("Images/color3.jpg");
+  background-image: url("images/color3.jpg");
 }
 label.color4 {
-  background-image: url("Images/color4.jpg");
+  background-image: url("images/color4.jpg");
 }
 label.color5 {
-  background-image: url("Images/color5.jpg");
+  background-image: url("images/color5.jpg");
 }
 label.color6 {
-  background-image: url("Images/color6.jpg");
+  background-image: url("images/color6.jpg");
 }
 
 .colorBtn:checked + label {
@@ -87,7 +87,7 @@ label.color6 {
 .imgWrap {
   height: 410px;
   width: 500px;
-  background-image: url(Images/chair1.png);
+  background-image: url(images/chair1.png);
   position: absolute;
   top: 100px;
   left: 0;
@@ -106,35 +106,35 @@ label.color6 {
   animation: shake 0.7s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
 }
 .imgWrap.chair2 {
-  background-image: url("Images/chair2.png");
+  background-image: url("images/chair2.png");
 }
 .forColor2:checked ~ .imgWrap.chair2 {
   opacity: 1;
   animation: shake 0.7s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
 }
 .imgWrap.chair3 {
-  background-image: url("Images/chair3.png");
+  background-image: url("images/chair3.png");
 }
 .forColor3:checked ~ .imgWrap.chair3 {
   opacity: 1;
   animation: shake 0.7s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
 }
 .imgWrap.chair4 {
-  background-image: url("Images/chair4.png");
+  background-image: url("images/chair4.png");
 }
 .forColor4:checked ~ .imgWrap.chair4 {
   opacity: 1;
   animation: shake 0.7s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
 }
 .imgWrap.chair5 {
-  background-image: url("Images/chair5.png");
+  background-image: url("images/chair5.png");
 }
 .forColor5:checked ~ .imgWrap.chair5 {
   opacity: 1;
   animation: shake 0.7s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
 }
 .imgWrap.chair6 {
-  background-image: url("Images/chair6.png");
+  background-image: url("images/chair6.png");
 }
 .forColor6:checked ~ .imgWrap.chair6 {
   opacity: 1;
